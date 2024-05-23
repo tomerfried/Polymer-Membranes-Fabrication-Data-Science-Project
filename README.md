@@ -1,4 +1,4 @@
-# Polymer Membranes Fabrication Project
+# Polymer Membranes Fabrication Research Project
 
 ## Overview
 
